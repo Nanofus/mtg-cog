@@ -8,8 +8,6 @@ from mtgsdk import Card
 from mtgsdk import Set
 
 class MTG:
-    """My custom cog that does stuff!"""
-
     def __init__(self, bot):
         self.bot = bot
 
